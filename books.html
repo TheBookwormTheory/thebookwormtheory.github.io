@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="bookworm">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Bookworm Theory</title>
+    <!--Angular-->
+    <script src="js/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body ng-controller="bookController">
+    <header><h1>The Bookworm Theory</header>
+
+    Search: <input ng-model="query">
+    <select ng-model="orderProp">
+      <option value="number">Sort By</option>
+      <option value="name">Name</option>
+      <option value="author">Author</option>
+      <option value="genre">Genre</option>
+      <option value="level">Level</option>
+      <!-- <option value="pages">Pages</option> -->
+      <option value="-availability">Availability</option>
+      <option value="givenby">Given By</option>
+    </select>
+
+
+    <table class="table table-hover">
+    <tr>
+      <th>#</th>
+      <th>Book</th>
+      <th>Author</th>
+      <th>Genre</th>
+      <!-- <th>Pages</th> -->
+      <th>Level</th>
+      <th>Given By</th>
+      <th>Available</th>
+      <th>Remarks</th>
+    </tr>
+    <tr ng-repeat="book in books | filter:query | orderBy:orderProp">
+      <td>{{book.number}}</td>
+      <td>{{book.name}}</td>
+      <td>{{book.author}}</td>
+      <td>{{book.genre}}</td>
+      <!-- <td>{{book.pages}}</td> -->
+      <td>{{book.level}}</td>
+      <td>{{book.givenby}}</td>
+      <td>{{book.availability}}</td>
+      <td>{{book.remarks}}</td>
+    </tr>
+    </table>
+
+
+
+
+    <footer>
+    <p>Built with love using Angular JS, Bootstrap.</p>
+    <p>Last Updated: 22/01/2015
+    </footer>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
