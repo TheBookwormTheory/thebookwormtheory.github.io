@@ -7,3 +7,10 @@ bookworm.controller('bookController', function ($scope, $http) {
         });
   $scope.orderProp = 'number';
 });
+
+bookworm.controller('dateUpdater', function ($scope, $http) {
+  $http.get('js/updated_date.json')
+        .then(function(response){
+          $scope.dates = response.data;
+        });
+});
