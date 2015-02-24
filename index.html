@@ -27,15 +27,12 @@
       <option value="givenby">Given By</option>
     </select>
 
-    <div ng-controller="bookController">
-
       <table class="table table-hover">
       <tr>
         <th>#</th>
         <th>Book</th>
         <th>Author</th>
         <th>Genre</th>
-        <!-- <th>Pages</th> -->
         <th>Level</th>
         <th>Given By</th>
         <th>Available</th>
@@ -46,15 +43,12 @@
         <td>{{book.name}}</td>
         <td>{{book.author}}</td>
         <td>{{book.genre}}</td>
-        <!-- <td>{{book.pages}}</td> -->
         <td>{{book.level}}</td>
         <td>{{book.givenby}}</td>
         <td>{{book.availability}}</td>
         <td>{{book.remarks}}</td>
       </tr>
       </table>
-
-    </div>
 
     <div ng-controller="dateUpdater">
       <footer>
