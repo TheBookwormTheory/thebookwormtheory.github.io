@@ -1,9 +1,9 @@
 Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,Availability
-1,Mein Kampf,Adolf Hitler,Biography,Advance,Hamish Patel,,,,,No
+1,Mein Kampf,Adolf Hitler,Biography,Advance,Hamish Patel,,,,,Yes
 2,The Adventures of the Christmas Pudding,Agatha Christie,Suspense,Intermediate,Jenny David,,,,,Yes
 3,Nothing Can Be As Crazy,Ajay Mohan Jain,,,Hamish Patel,,,,,Yes
 4,Ignited Minds,APJ Abdul Kalam,Non fiction,Easy,Rahul Pandey,,,,,Yes
-5,Wings of Fire,APJ Abdul Kalam,Biography,Easy,Rahul Pandey,Hardik Madhu,,,,No
+5,Wings of Fire,APJ Abdul Kalam,Biography,Easy,Rahul Pandey,,,,,Yes
 6,The God of Small Things,Arundhati Roy,Literary Fiction,Advance,Hamish Patel,Jenny David,,Personal Favourite,340,No
 7,The White Tiger,Arvind Adiga,Literary Fiction,Advance,Hamish Patel,,,,,Yes
 8,The White Tiger,Arvind Adiga,Literary Fiction,Advance,Hamish Patel,,,,,Yes
@@ -21,7 +21,7 @@ Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,
 20,2 States,Chetan Bhagat,Indian Fiction,Easy,Rahul Pandey,,,,,Yes
 21,The Lean Startup,Eric Ries,Entrepreneurship,Intermediate,Hamish Patel,,,,320,No
 22,Straight From The Gut,Jack Welch,Management,Intermediate,Hamish Patel,,,,,Yes
-23,Jinnah - India Partition Independence,Jaswant Singh,History,Advance,Hamish Patel,,,,,No
+23,Jinnah - India Partition Independence,Jaswant Singh,History,Advance,Hamish Patel,,,,,Yes
 24,The Namesake,Jumpha Lahari,Literary Fiction,Advance,Hardik Madhu,,,,,Yes
 25,A Thousand Splendid Suns,Khaled Hossini,Fiction,Intermediate,Hamish Patel,,,,,Yes
 26,A Thousand Splendid Suns,Khaled Hossini,Fiction,Intermediate,Hamish Patel,,,,,Yes
@@ -36,33 +36,33 @@ Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,
 35,I have a Dream,Rashmi Bansal,Entrepreneurship,Easy,Hamish Patel,,,,,Yes
 36,Connect the Dots,Rashmi Bansal,Entrepreneurship,Easy,Hamish Patel,,,,,Yes
 37,I Bought The Monk's Ferrari,Ravi Subramanian,Self Help,Easy,Hamish Patel,,,,,Yes
-38,I too Had a Love Story,Ravinder Singh,Indian Fiction,Easy,Vishruth Jain,Vishruth Jain,,,,No
-39,one click,Richard L. Brandt,Biography,Easy,Hamish Patel,,,,,Yes
-40,The Monk Who Sold His Ferrari,Robin Sharma,Self Help,Easy,Hamish Patel,,,,,Yes
-41,The Sky is Falling,Sidney Sheldon,Mystery,Intermediate,Hamish Patel,,,,,Yes
-42,A Brief History of Time,Stephen Hawking,Science,Intermediate,Rahul Pandey,Kartikeya Rokde,,,,No
-43,SuperFreakonomics,"Steven D. Levitt &
+38,one click,Richard L. Brandt,Biography,Easy,Hamish Patel,,,,,Yes
+39,The Monk Who Sold His Ferrari,Robin Sharma,Self Help,Easy,Hamish Patel,,,,,Yes
+40,The Sky is Falling,Sidney Sheldon,Mystery,Intermediate,Hamish Patel,,,,,Yes
+41,A Brief History of Time,Stephen Hawking,Science,Intermediate,Rahul Pandey,Kartikeya Rokde,,,,No
+42,SuperFreakonomics,"Steven D. Levitt &
 Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
-44,Freaknomics,"Steven D. Levitt &
+43,Freaknomics,"Steven D. Levitt &
 Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
-45,The Undercover Economist,Tim Harford,Economics,Intermediate,Hamish Patel,,,,,Yes
-46,The Creative Destruction of Medicine,Eric J. Topol,Science,Intermediate,Hamish Patel,,,,,Yes
-47,F.R.I.E.N.D.S... 'Til The End,,,,Hamish Patel,,,,,Yes
-48,From Wall Street to the Great Wall,Jonathan Worrall,,,Hamish Patel,Kishan Thobhani,,,,No
-49,Guide to Letters of Credit & UCP 600,,,,Hamish Patel,,,,,Yes
-50,every man's Speaking Tree,The Times Of India,Self Help,Advance,Ankita Singh,,,,,Yes
-51,The Alchemist,Paulo Coelho,Fiction,Easy,Ankita Singh,,,,161,Yes
-52,Steve Jobs,Issacson Walter,Biography,Easy,Hamish Patel,Avinash,2014-12-01,,569,No
-53,My Experiments With Truth,M. K. Gandhi,Biography,Intermediate,Hardik Madhu,,,,464,Yes
-54,The Wonder That Was India,A. L. Basham,History,Advance,Hamish Patel,,,Some 200 Pages are missing,,No
-55,Once Upon the Tracks of Mumbai,Rishi Vohra,Fiction,Easy,Rahul Pandey,,,,,Yes
-56,Because Shit Happened,Harsh Snehanshu,Fiction,Easy,Rahul Pandey,,,,,Yes
-57,How I Braved Anu Aunty & Co-Founded A Million Dollar Company,Varun Agarwal,Fiction,Easy,Rahul Pandey,,,,,Yes
-58,The Krishna Key,Ashwin Sanghi,Fiction,Intermediate,Rahul Pandey,,,,,Yes
-59,Zero Percentile,Neeraj Chhibba,Fiction,Easy,Rahul Pandey,,,,,Yes
-60,All Fall Down,Erica Spindler,Fiction,,Hardik Madhu,,,,,Yes
-61,2 States,Chetan Bhagat,Fantasy,Easy,Hardik Madhu,,,,,Yes
-62,The Murder of Roger Ackroyd,Agatha Christie,Suspense,Intermediate,Hardik Madhu,Rohan Jain,29/01/15,,,No
-63,Twenty Thousand Leagues Under the Sea,Jules Verne,Fiction,Intermediate,Hardik Madhu,,,,,Yes
-64,War and Peace,Leo Tolstoy,Fiction,Advance,Hardik Madhu,,,,,Yes
-65,The Krishna Key,Ashwin Sanghi,Fiction,Intermediate,Hardik Madhu,Shobhit Sharma,29/01/15,,,No
+44,The Undercover Economist,Tim Harford,Economics,Intermediate,Hamish Patel,,,,,Yes
+45,The Creative Destruction of Medicine,Eric J. Topol,Science,Intermediate,Hamish Patel,,,,,Yes
+46,F.R.I.E.N.D.S... 'Til The End,,,,Hamish Patel,,,,,Yes
+47,From Wall Street to the Great Wall,Jonathan Worrall,,,Hamish Patel,Kishan Thobhani,,,,No
+48,Guide to Letters of Credit & UCP 600,,,,Hamish Patel,,,,,Yes
+49,every man's Speaking Tree,The Times Of India,Self Help,Advance,Ankita Singh,,,,,Yes
+50,The Alchemist,Paulo Coelho,Fiction,Easy,Ankita Singh,,,,161,Yes
+51,Steve Jobs,Issacson Walter,Biography,Easy,Hamish Patel,Avinash,2014-12-01,,569,No
+52,My Experiments With Truth,M. K. Gandhi,Biography,Intermediate,Hardik Madhu,,,,464,Yes
+53,The Wonder That Was India,A. L. Basham,History,Advance,Hamish Patel,,,Some 200 Pages are missing,,No
+54,Once Upon the Tracks of Mumbai,Rishi Vohra,Fiction,Easy,Rahul Pandey,,,,,Yes
+55,Because Shit Happened,Harsh Snehanshu,Fiction,Easy,Rahul Pandey,,,,,Yes
+56,How I Braved Anu Aunty & Co-Founded A Million Dollar Company,Varun Agarwal,Fiction,Easy,Rahul Pandey,,,,,Yes
+57,The Krishna Key,Ashwin Sanghi,Fiction,Intermediate,Rahul Pandey,,,,,Yes
+58,Zero Percentile,Neeraj Chhibba,Fiction,Easy,Rahul Pandey,,,,,Yes
+59,All Fall Down,Erica Spindler,Fiction,,Hardik Madhu,,,,,Yes
+60,2 States,Chetan Bhagat,Fantasy,Easy,Hardik Madhu,,,,,Yes
+61,The Murder of Roger Ackroyd,Agatha Christie,Suspense,Intermediate,Hardik Madhu,Rohan Jain,29/01/15,,,No
+62,Twenty Thousand Leagues Under the Sea,Jules Verne,Fiction,Intermediate,Hardik Madhu,,,,,Yes
+63,War and Peace,Leo Tolstoy,Fiction,Advance,Hardik Madhu,,,,,Yes
+64,The Krishna Key,Ashwin Sanghi,Fiction,Intermediate,Hardik Madhu,Shobhit Sharma,29/01/15,,,No
+65,Sea of Poppies,Amitav Ghosh,Fiction,Intermediate,,Rahul Pandey,08/04/15,,,No
