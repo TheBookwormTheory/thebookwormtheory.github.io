@@ -4,9 +4,9 @@ Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,
 3,Nothing Can Be As Crazy,Ajay Mohan Jain,,,Hamish Patel,,,,,Yes
 4,Ignited Minds,APJ Abdul Kalam,Non fiction,Easy,Rahul Pandey,,,,,Yes
 5,Wings of Fire,APJ Abdul Kalam,Biography,Easy,Rahul Pandey,,,,,Yes
-6,The God of Small Things,Arundhati Roy,Literary Fiction,Advance,Hamish Patel,Jenny David,,Personal Favourite,340,No
+6,The God of Small Things,Arundhati Roy,Literary Fiction,Advance,Hamish Patel,,,Personal Favourite,340,Yes
 7,The White Tiger,Arvind Adiga,Literary Fiction,Advance,Hamish Patel,,,,,Yes
-8,The White Tiger,Arvind Adiga,Literary Fiction,Advance,Hamish Patel,,,,,Yes
+8,The White Tiger,Arvind Adiga,Literary Fiction,Advance,Hamish Patel,Rahul Pandey,,,,No
 9,Armies of Hanuman,Ashok K Banker,Fantasy,Intermediate,Hamish Patel,,,,,Yes
 10,Demons of Chitrakut,Ashok K Banker,Fantasy,Intermediate,Hamish Patel,,,,,Yes
 11,Bridge of Rama,Ashok K Banker,Fantasy,Intermediate,Hamish Patel,,,,,Yes
@@ -19,8 +19,8 @@ Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,
 18,One night @ the call centre,Chetan Bhagat,Indian Fiction,Easy,Rahul Pandey,,,,,Yes
 19,3 Mistakes of My Life,Chetan Bhagat,Indian Fiction,Easy,Rahul Pandey,,,,,Yes
 20,2 States,Chetan Bhagat,Indian Fiction,Easy,Rahul Pandey,,,,,Yes
-21,The Lean Startup,Eric Ries,Entrepreneurship,Intermediate,Hamish Patel,,,,320,No
-22,Straight From The Gut,Jack Welch,Management,Intermediate,Hamish Patel,,,,,Yes
+21,The Lean Startup,Eric Ries,Entrepreneurship,Intermediate,Hamish Patel,Rahul Pandey,,,320,No
+22,Straight From The Gut,Jack Welch,Management,Intermediate,Hamish Patel,Dhaval Vadhar,,,,No
 23,Jinnah - India Partition Independence,Jaswant Singh,History,Advance,Hamish Patel,,,,,Yes
 24,The Namesake,Jumpha Lahari,Literary Fiction,Advance,Hardik Madhu,,,,,Yes
 25,A Thousand Splendid Suns,Khaled Hossini,Fiction,Intermediate,Hamish Patel,,,,,Yes
@@ -39,9 +39,9 @@ Sr No.,Book,Author,Genre,Level,Given by,Currently with,Date given,Remarks,Pages,
 38,one click,Richard L. Brandt,Biography,Easy,Hamish Patel,,,,,Yes
 39,The Monk Who Sold His Ferrari,Robin Sharma,Self Help,Easy,Hamish Patel,,,,,Yes
 40,The Sky is Falling,Sidney Sheldon,Mystery,Intermediate,Hamish Patel,,,,,Yes
-41,A Brief History of Time,Stephen Hawking,Science,Intermediate,Rahul Pandey,Kartikeya Rokde,,,,No
+41,A Brief History of Time,Stephen Hawking,Science,Intermediate,Rahul Pandey,,,,,No
 42,SuperFreakonomics,"Steven D. Levitt &
-Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
+Stephen J. Dubner",Economics,Intermediate,Hamish Patel,Rahul Pandey,,,,No
 43,Freaknomics,"Steven D. Levitt &
 Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
 44,The Undercover Economist,Tim Harford,Economics,Intermediate,Hamish Patel,,,,,Yes
@@ -50,10 +50,10 @@ Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
 47,From Wall Street to the Great Wall,Jonathan Worrall,,,Hamish Patel,Kishan Thobhani,,,,No
 48,Guide to Letters of Credit & UCP 600,,,,Hamish Patel,,,,,Yes
 49,every man's Speaking Tree,The Times Of India,Self Help,Advance,Ankita Singh,,,,,Yes
-50,The Alchemist,Paulo Coelho,Fiction,Easy,Ankita Singh,,,,161,Yes
+50,The Alchemist,Paulo Coelho,Fiction,Easy,Ankita Singh,Jayant,2015-06-08,,161,Yes
 51,Steve Jobs,Issacson Walter,Biography,Easy,Hamish Patel,Avinash,2014-12-01,,569,No
 52,My Experiments With Truth,M. K. Gandhi,Biography,Intermediate,Hardik Madhu,,,,464,Yes
-53,The Wonder That Was India,A. L. Basham,History,Advance,Hamish Patel,,,Some 200 Pages are missing,,No
+53,The Wonder That Was India,A. L. Basham,History,Advance,Hamish Patel,,,Some 200 Pages are missing,,Yes
 54,Once Upon the Tracks of Mumbai,Rishi Vohra,Fiction,Easy,Rahul Pandey,,,,,Yes
 55,Because Shit Happened,Harsh Snehanshu,Fiction,Easy,Rahul Pandey,,,,,Yes
 56,How I Braved Anu Aunty & Co-Founded A Million Dollar Company,Varun Agarwal,Fiction,Easy,Rahul Pandey,,,,,Yes
@@ -66,3 +66,4 @@ Stephen J. Dubner",Economics,Intermediate,Hamish Patel,,,,,Yes
 63,War and Peace,Leo Tolstoy,Fiction,Advance,Hardik Madhu,,,,,Yes
 64,The Krishna Key,Ashwin Sanghi,Fiction,Intermediate,Hardik Madhu,Shobhit Sharma,29/01/15,,,No
 65,Sea of Poppies,Amitav Ghosh,Fiction,Intermediate,,Rahul Pandey,08/04/15,,,No
+66,Siege of Mithila,Ashok K Banker,Fantasy,Easy,Hamish Patel,Rahul Pandey,,,,No
